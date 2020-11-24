@@ -1,10 +1,10 @@
 # Projecto_Microfono_Camara_II
 
-![proyecto](img/proyecto)
+![proyecto](img/proyecto.png)
 El proyecto resultante se ve de esta manera, los 3 botones hacen referencia a las funciones del micrófono.
 
 El botón de Record  
-![record](img/record)
+![record](img/record.png)
   
 ```cs
 public void Record()
@@ -14,7 +14,7 @@ public void Record()
 ```
 
 El botón de Stop  
-![stop](img/stop)
+![stop](img/stop.png)
   
 ```cs
 public void EndRecording()
@@ -24,7 +24,7 @@ public void EndRecording()
 ```
 
 El botón de Play  
-![play](img/play)
+![play](img/play.png)
   
 ```cs
 public void Play()
@@ -37,7 +37,7 @@ Es posible escuchar lo que se está grabando en tiempo real, es decir que te esc
 
 
 Respecto a la cámara, para que funcione he usado una RawImage ya que con un script no me cargaba.  
-![rawimage](img/rawimage)  
+![rawimage](img/rawimage.png)  
 
 El codigo de la cámara
 ```cs
